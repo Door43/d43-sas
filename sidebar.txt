@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sas:home|Door43 (sas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sas|d43-sas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sas/archive/master.zip|d43-sas.zip]]
+
+**Recent Changes**
+{{changes>ns = sas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sas|Ethnologue data]]
+
